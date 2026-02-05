@@ -1,7 +1,8 @@
 # Hi 👋 I'm Poojitha Reddy Vontela
 
 🎓 Graduate Computer Science Student at Texas A&M University – Corpus Christi  
-💻 Software & Web Developer | UI/UX | ServiceNow | Cloud | Data  
+💻 Software & Web Developer | UI/UX | ServiceNow | Cloud | Data
+🌐 Portfolio: https://poojitha0616.github.io/poojitha_reddy_vontela-portfolio/
 📍 United States | Actively Seeking Full-Time Opportunities  
 
 ---
